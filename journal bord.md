@@ -10,3 +10,7 @@ Aujourd’hui,
 Le premier cours est : GIT et GITHUB après, nous avons un exercice .
 Résultat :
 Appris ce jour comment utilise GIT ET GITHUB pour stock mes projets et pour travail en équipe .
+
+
+
+   ;
