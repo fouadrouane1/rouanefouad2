@@ -10,6 +10,6 @@ int main(int argc, char *argv[]) {
 	
 	M=Km/1000;
 	
-	printf("%f",Mile);
+	printf("%f",M);
 	return 0;
 }
