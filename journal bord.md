@@ -13,4 +13,6 @@ Appris ce jour comment utilise GIT ET GITHUB pour stock mes projets et pour trav
 
 
 
-   ;
+   10/10/2021
+Aujourd’hui, à 09H00, a commencer la 3eme science de la période  SAS.
+   - Premier nous avons étudie la première leçon de langage C : nous avons fait une recherche sur l’histoire de langage C et après étudie leçon de (VARIEBLES) et ( DATA TYPES ) 
