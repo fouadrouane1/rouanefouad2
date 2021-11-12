@@ -20,4 +20,4 @@ Aujourd’hui, à 09H00, a commencer la 3eme science de la période  SAS.
 
 12/10/2021
 Aujourd’hui, à 09H00, a commencer la 4eme science de la période  SAS.
- - Premier nous avons étudie la 3eme leçon de Langage C Conditions et apres nous avons travail des challenges sur logiciel DEV .
+ - Premier nous avons étudie la 3eme leçon de Langage C Conditions et apres nous avons travail des challenges sur logiciel DEV et nous avons fait le live codin pour partager plus maximum d'information.
