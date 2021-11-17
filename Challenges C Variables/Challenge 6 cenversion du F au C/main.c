@@ -9,5 +9,9 @@ int main(int argc, char *argv[]) {
 	scanf("%f",&f);
 	c=(f-32)/1.8;
 	printf ("la tempirature de c = %f ",c);
+<<<<<<< HEAD
+=======
+
+>>>>>>> f6398b7571d87f901e5e74b7c3f8229dbae59ba2
 	return 0;
 }
