@@ -10,7 +10,7 @@ int main(int argc, char *argv[]) {
 		
 		for (i=1; i<=10; i++){
 		int v=x*i;
-			printf("%d  %d =%d\n",x,i,v);
+			printf("%d * %d =%d\n",x,i,v);
 	
 	}
 	return 0;
