@@ -5,8 +5,9 @@
 
 int main(int argc, char *argv[]) {
 	float f,c;
-	printf("entrer la temperature de f");
-	scanf("%f",c);
-	c=(F-32)/1.8;
+	printf("entrer la temperature de f :");
+	scanf("%f",&f);
+	c=(f-32)/1.8;
+	printf ("la tempirature de c = %f ",c);
 	return 0;
 }
