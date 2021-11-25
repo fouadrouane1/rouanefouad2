@@ -27,3 +27,5 @@ Aujourd’hui, à 09H00, a commencer la premier science de deuxième semaine de 
      Premièrement nous avons fini les challenges de langage C et après j’ai etudie des leçon de langage C en site SOLOLEARN .
 Appris cette science plusieurs formations de langage C j’ai appris a utilisé les conditions (if… else…switch case ) et les variables et data types dans le programmation  .
 
+24 novembre 2021 :
+Hier, j'ai commencé à la fin de SAS : la gestion bancaire, d'abord la création d'un compte bancaire, puis la création de plusieurs comptes, après cela j'ai créé un programme de prestation de services  comme : retrait , depot ,  recherche par CIN , tri par montant… .
